@@ -1,0 +1,1 @@
+git clone --recurse-submodules https://gitlab.metropolia.fi/jonnerop/cardio-pulse-pro.git
