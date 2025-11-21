@@ -94,14 +94,6 @@
 
 ---
 
-## Future Enhancements
-
-- Add more HRV calculations (SD1, SD2, SDSD).
-- Implement machine learning for health trend analysis.
-- Develop a wearable version for continuous monitoring.
-
----
-
 ## Contributors
 
 - **Ade Aiho**
