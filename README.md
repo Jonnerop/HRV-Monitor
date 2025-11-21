@@ -25,17 +25,6 @@
 
 ---
 
-## Components
-
-1. **Raspberry Pi Pico W**
-2. **Crowtail Pulse Sensor v2.0**
-3. **SSD1306 OLED Display**
-4. **Rotary Encoder**
-5. **Protoboard with Grove Connectors**
-6. **USB-C Cable**
-
----
-
 ## Getting Started
 
 ### Prerequisites
